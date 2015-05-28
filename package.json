@@ -1,7 +1,8 @@
 {
   "name": "boat",
-  "dependencies":{
-    "heya":"*",
-    "spark-io":"*"
+  "dependencies": {
+    "heya": "*",
+    "johnny-five": "^0.8.76",
+    "spark-io": "^0.6.1"
   }
 }
